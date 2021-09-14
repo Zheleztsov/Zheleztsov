@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zheleztsov
-- 👀 I’m interested in Devops,Linux,Python
+- 👀 I’m interested in Devops,Linux,Python,Zabbix
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me t.me/RUzellos
 
